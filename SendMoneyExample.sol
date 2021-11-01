@@ -27,6 +27,3 @@ contract sendmoneyexample {
         }
     }
 }
-// testing 
-// testing by Allwin in Allwin branch
-// keterlaluan github
