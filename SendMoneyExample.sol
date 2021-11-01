@@ -27,6 +27,3 @@ contract sendmoneyexample {
         }
     }
 }
-
-// testing for github 
-// github is something weird
