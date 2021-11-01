@@ -27,4 +27,5 @@ contract sendmoneyexample {
         }
     }
 }
-want to testing something for github
+
+testing by saviour
