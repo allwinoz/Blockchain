@@ -27,4 +27,3 @@ contract sendmoneyexample {
         }
     }
 }
-testing by rasyid
