@@ -27,5 +27,4 @@ contract sendmoneyexample {
         }
     }
 }
-
-testing by saviour
+testing by rasyid
